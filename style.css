@@ -1,0 +1,15 @@
+*{
+    margin-inline: 50px;
+flex-wrap: wrap;
+background-color: rgb(206, 218, 194);
+    
+  }
+    h2{
+      color: aqua;
+  
+    }
+    h5{
+      background-color: beige;
+    }
+  
+  
